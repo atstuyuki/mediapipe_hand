@@ -1,0 +1,2 @@
+# mediapipe_hand
+mediapipe_handの角度検出用データ
